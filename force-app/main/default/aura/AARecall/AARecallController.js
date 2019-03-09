@@ -1,5 +1,5 @@
 ({
-    clickSubmit : function(component, event, helper) {
+    doInit : function(component, event, helper) {
         var action = component.get("c.onRecall");
         action.setParams({quoteId : component.get("v.recordId")});
 
