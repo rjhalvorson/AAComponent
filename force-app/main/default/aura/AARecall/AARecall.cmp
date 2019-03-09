@@ -4,4 +4,4 @@
     <div class="holder">
         <lightning:spinner alternativeText="Loading" />
     </div>
-</aura:component>	
+</aura:component>
