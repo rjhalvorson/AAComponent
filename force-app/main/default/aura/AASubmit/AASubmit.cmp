@@ -1,0 +1,6 @@
+<aura:component controller="QuoteApprovalController" implements="force:lightningQuickAction,force:hasRecordId">
+    <aura:attribute name="recordId" type="Id" />
+    <div class="holder">
+        <lightning:spinner alternativeText="Loading" />
+    </div>
+</aura:component>	

@@ -1,0 +1,4 @@
+<aura:component controller="QuoteApprovalController" implements="force:lightningQuickAction,force:hasRecordId">
+    <lightning:button label="Recall for AA" onclick="{!c.clickSubmit}" />
+    <aura:attribute name="recordId" type="Id" />
+</aura:component>	
