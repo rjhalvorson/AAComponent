@@ -1,4 +1,7 @@
 <aura:component controller="QuoteApprovalController" implements="force:lightningQuickAction,force:hasRecordId">
     <lightning:button label="Recall for AA" onclick="{!c.clickSubmit}" />
     <aura:attribute name="recordId" type="Id" />
+    <div class="holder">
+        <lightning:spinner alternativeText="Loading" />
+    </div>
 </aura:component>	
