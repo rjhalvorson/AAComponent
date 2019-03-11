@@ -1,0 +1,339 @@
+[
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1552008783443,
+            "changeTime": 1552008783443,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1552008783444,
+            "changeTime": 1552008783444,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1552204767928,
+            "changeTime": 1552204767928,
+            "contentHash": "9f5a3b21b78d208e3f676c7eaae9feac171a645a"
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1552098866307,
+            "changeTime": 1552098866307,
+            "contentHash": "3bcaa062ad147b3464f6ca391b6941f48768a196",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1552105253471,
+            "changeTime": 1552105253471,
+            "contentHash": "29c6da724a2cdbc47bf0fda3e695b0a4591425f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall/AARecall.cmp",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall/AARecall.cmp",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1552105466066,
+            "changeTime": 1552105466066,
+            "contentHash": "ff513d79b2917ff7e4ca690e8101478e08b8d326",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall/AARecall.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall/AARecall.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 291,
+            "modifiedTime": 1552099349771,
+            "changeTime": 1552099349771,
+            "contentHash": "15be0f4832209c2a96974eb227a15a15f3d8e482",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall/AARecall.css",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall/AARecall.css",
+            "isDirectory": false,
+            "size": 159,
+            "modifiedTime": 1552105470033,
+            "changeTime": 1552105470033,
+            "contentHash": "3948a2f3fb1881378b5b07aaf9dbbe96427366c9",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall/AARecallController.js",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall/AARecallController.js",
+            "isDirectory": false,
+            "size": 1501,
+            "modifiedTime": 1552105266082,
+            "changeTime": 1552105266082,
+            "contentHash": "b3862ea028ddf44e98b1b3b98fb324577fe4dd9c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall/AARecallHelper.js",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AARecall/AARecallHelper.js",
+            "isDirectory": false,
+            "size": 748,
+            "modifiedTime": 1552102058468,
+            "changeTime": 1552102058468,
+            "contentHash": "a0fb0db179947565ac43c69c103c9cdda4542b13",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1552100938134,
+            "changeTime": 1552100938134,
+            "contentHash": "83876f11f77f5ba31af556beb642aa8e5b41cb6c",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit/AASubmit.cmp",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit/AASubmit.cmp",
+            "isDirectory": false,
+            "size": 341,
+            "modifiedTime": 1552105467644,
+            "changeTime": 1552105467644,
+            "contentHash": "6ecb119dd512ce5ca54c0e86fdcc151f884cc588",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit/AASubmit.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit/AASubmit.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 294,
+            "modifiedTime": 1552085206416,
+            "changeTime": 1552085206416,
+            "contentHash": "34a64031d25f5e76e2c0d7f9b120aba5b8728571",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit/AASubmit.css",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit/AASubmit.css",
+            "isDirectory": false,
+            "size": 159,
+            "modifiedTime": 1552100983018,
+            "changeTime": 1552100983018,
+            "contentHash": "3948a2f3fb1881378b5b07aaf9dbbe96427366c9",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit/AASubmitController.js",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit/AASubmitController.js",
+            "isDirectory": false,
+            "size": 1501,
+            "modifiedTime": 1552102085445,
+            "changeTime": 1552102085445,
+            "contentHash": "7883ba65e1a7ec0df69a4087c55da070dd011c51",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit/AASubmitHelper.js",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/aura/AASubmit/AASubmitHelper.js",
+            "isDirectory": false,
+            "size": 752,
+            "modifiedTime": 1552102060863,
+            "changeTime": 1552102060863,
+            "contentHash": "cf4fef290b05235cfcae39ef9ad1f7db05b9fca1",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1552097279685,
+            "changeTime": 1552097279685,
+            "contentHash": "1d0142e70e7e20c1a7e9bb5197312ffd7fa29fb5",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/classes/QuoteApprovalController.cls",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/classes/QuoteApprovalController.cls",
+            "isDirectory": false,
+            "size": 361,
+            "modifiedTime": 1552098800649,
+            "changeTime": 1552098800649,
+            "contentHash": "7c92031039e230b4122842da7dbc8570e0df2414",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/classes/QuoteApprovalController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/classes/QuoteApprovalController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 330,
+            "modifiedTime": 1552091932105,
+            "changeTime": 1552091932105,
+            "contentHash": "2052950a6ff84b716cfae2b17708e8d8e1f61f79",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent",
+        {
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1552104799224,
+            "changeTime": 1552104799224,
+            "contentHash": "1f05bbbfa5e09685e44d6228338fcd77fac1f0fb",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/staticresources/loadstein.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/staticresources/loadstein.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1552282406789,
+            "changeTime": 1552282406789,
+            "contentHash": "69c500aa97f2339384a1ed24ce9059568f9d5f69"
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/staticresources/loadstein.gif",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/staticresources/loadstein.gif",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 152801,
+            "modifiedTime": 1552282406791,
+            "changeTime": 1552282406791,
+            "contentHash": "3adc4187b8738990a02668f04b4aa56d6719322e"
+        }
+    ],
+    [
+        "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rhalvorson/Projects/AAComponent/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1552282406791,
+            "changeTime": 1552282406791,
+            "contentHash": "49788d005ca5a9b780ff2d02e72983d6dc845132"
+        }
+    ]
+]

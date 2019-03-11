@@ -1,8 +1,9 @@
 .THIS.holder{
     position: relative;
     display: inline-block;
-    margin-left: 15px;
-    width: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
     vertical-align: middle;
     white-space: nowrap;
 }

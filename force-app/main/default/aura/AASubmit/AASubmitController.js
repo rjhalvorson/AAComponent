@@ -9,7 +9,7 @@
                 // Refresh the Record
                 $A.get('e.force:refreshView').fire();
                 // Close the Component
-                $A.get("e.force:closeQuickAction").fire();
+                // $A.get("e.force:closeQuickAction").fire();
                 // Optionally Alert user with Success Message
                 helper.showSuccessToast();
             }

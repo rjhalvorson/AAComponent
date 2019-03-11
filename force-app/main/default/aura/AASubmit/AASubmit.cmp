@@ -2,6 +2,6 @@
     <aura:attribute name="recordId" type="Id" />
     <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
     <div class="holder">
-        <lightning:spinner alternativeText="Loading" />
+        <img src="{!$Resource.loadstein + '/loadstein.gif'}"  alt="Placeholder" /> 
     </div>
 </aura:component>	
