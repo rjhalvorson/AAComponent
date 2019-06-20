@@ -10,7 +10,7 @@ https://success.salesforce.com/issues_view?id=a1p3A0000001C8QQAU
 This repository contains two aura lightning componments for submitting and recalling approvals in Advanced Approvals module with an APEX controller.
 
 ## Example
-
+![alt text](https://github.com/rjhalvorson/AAComponent/blob/master/AAComponent.gif)
 
 ## Issues
 Future Work: 
